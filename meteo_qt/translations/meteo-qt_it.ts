@@ -46,12 +46,12 @@
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;You-Cheng Hsieh &lt;a href=&quot;mailto:yochenhsieh@gmail.com&quot;&gt;yochenhsieh@gmail.com&lt;/a&gt;&lt;br/&gt; [zh_TW] Chinese (Taiwan) translation</source>
-        <translation type="unfinished">&lt;p&gt;You-Cheng Hsieh &lt;a href=&quot;mailto:yochenhsieh@gmail.com&quot;&gt;yochenhsieh@gmail.com&lt;/a&gt;&lt;br/&gt; [zh_TW] Chinese (Taiwan) translation</translation>
+        <translation>&lt;p&gt;You-Cheng Hsieh &lt;a href=&quot;mailto:yochenhsieh@gmail.com&quot;&gt;yochenhsieh@gmail.com&lt;/a&gt;&lt;br/&gt; [zh_TW] traduzione cinese (Taiwan)</translation>
     </message>
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;pmav99&lt;br/&gt; Project</source>
-        <translation type="unfinished">&lt;p&gt;pmav99&lt;br/&gt; Project</translation>
+        <translation type="unfinished">&lt;p&gt;pmav99&lt;br/&gt; Progetto</translation>
     </message>
     <message>
         <location filename="../about_dlg.py" line="50"/>
@@ -96,22 +96,22 @@
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;Masamichi Ito &lt;a href=&quot;https://github.com/ito32bit&quot;&gt;https://github.com/ito32bit&lt;/a&gt;&lt;br/&gt; [ja] Japanese translation</source>
-        <translation type="unfinished">&lt;p&gt;Masamichi Ito &lt;a href=&quot;https://github.com/ito32bit&quot;&gt;https://github.com/ito32bit&lt;/a&gt;&lt;br/&gt; [ja] Japanese translation</translation>
+        <translation>&lt;p&gt;Masamichi Ito &lt;a href=&quot;https://github.com/ito32bit&quot;&gt;https://github.com/ito32bit&lt;/a&gt;&lt;br/&gt; [ja] traduzione giapponese</translation>
     </message>
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;Adrian Moise&lt;a href=&quot;mailto:sah.mat.ro@gmail.com&quot;&gt;sah.mat.ro@gmail.com&lt;/a&gt;&lt;br/&gt; [ro] Romanian translation</source>
-        <translation type="unfinished">&lt;p&gt;Adrian Moise&lt;a href=&quot;mailto:sah.mat.ro@gmail.com&quot;&gt;sah.mat.ro@gmail.com&lt;/a&gt;&lt;br/&gt; [ro] Romanian translation</translation>
+        <translation>&lt;p&gt;Adrian Moise&lt;a href=&quot;mailto:sah.mat.ro@gmail.com&quot;&gt;sah.mat.ro@gmail.com&lt;/a&gt;&lt;br/&gt; [ro] traduzione rumena</translation>
     </message>
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;Ozkar L. Garcell &lt;a href=&quot;mailto:ozkar.garcell@gmail.com&quot;&gt;ozkar.garcell@gmail.com&lt;/a&gt;&lt;br/&gt; Teo Laírla (teolairlasg) &lt;a href=&quot;mailto:teo.lairla@iessierradeguara.com&quot;&gt;teo.lairla@iessierradeguara.com&lt;/a&gt;&lt;br/&gt; [es] Spanish translation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Ozkar L. Garcell &lt;a href=&quot;mailto:ozkar.garcell@gmail.com&quot;&gt;ozkar.garcell@gmail.com&lt;/a&gt;&lt;br/&gt; Teo Laírla (teolairlasg) &lt;a href=&quot;mailto:teo.lairla@iessierradeguara.com&quot;&gt;teo.lairla@iessierradeguara.com&lt;/a&gt;&lt;br/&gt; [es] traduzione spagnola</translation>
     </message>
     <message>
         <location filename="../about_dlg.py" line="50"/>
         <source>&lt;p&gt;standreas &lt;a href=&quot;mailto:standreas@riseup.net&quot;&gt;standreas@riseup.net&lt;/a&gt;&lt;br/&gt; [it] Italian translation, Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;standreas &lt;a href=&quot;mailto:standreas@riseup.net&quot;&gt;standreas@riseup.net&lt;/a&gt;&lt;br/&gt; [it] traduzione italiana, Weblate</translation>
     </message>
 </context>
 <context>
@@ -224,7 +224,7 @@ Terra: la deriva del fumo indica la direzione del vento. Le foglie e le banderuo
         <source>Sea: Very high waves with overhanging crests. Large patches of foam from wave crests give the sea a white appearance. Considerable tumbling of waves with heavy impact. Large amounts of airborne spray reduce visibility
 Land: Trees are broken off or uprooted, structural damage likely</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: Onde molto alte con creste strapiombanti. Grandi chiazze di schiuma provenienti dalle creste delle onde conferiscono al mare un aspetto bianco. Notevole caduta delle onde con forte impatto. Grandi quantità di spruzzi nell'aria riducono la visibilità
+        <translation>Mare: Onde molto alte con creste strapiombanti. Grandi chiazze di schiuma provenienti dalle creste delle onde conferiscono al mare un aspetto bianco. Notevole caduta delle onde con forte impatto. Grandi quantità di spruzzi nell&apos;aria riducono la visibilità
 Terreno: alberi spezzati o sradicati, probabili danni strutturali</translation>
     </message>
 </context>
@@ -246,7 +246,7 @@ Terreno: aree più grandi di vegetazione ed edifici possono essere danneggiate</
         <source>Sea: Huge waves. Sea is completely white with foam and spray. Air is filled with driving spray, greatly reducing visibility
 Land: Severe widespread damage to vegetation and structures. Debris and unsecured objects are hurled about</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: onde enormi. Il mare è completamente bianco con schiuma e spruzzi. L'aria è piena di schiuma, riducendo notevolmente la visibilità
+        <translation>Mare: onde enormi. Il mare è completamente bianco con schiuma e spruzzi. L&apos;aria è piena di schiuma, riducendo notevolmente la visibilità
 Terreno: Gravi danni diffusi alla vegetazione e alle strutture. Detriti e oggetti non fissati vengono scagliati qua e là</translation>
     </message>
 </context>
@@ -257,7 +257,7 @@ Terreno: Gravi danni diffusi alla vegetazione e alle strutture. Detriti e oggett
         <source>Sea: Small wavelets, still short but more pronounced; crests have a glassy appearance and do not break
 Land: Wind felt on exposed skin. Leaves rustle. Wind vanes begin to move</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: Onde piccole, corte ma un po' più forti. Le creste delle onde hanno un aspetto vetroso e non si rompono.
+        <translation>Mare: Onde piccole, corte ma un po&apos; più forti. Le creste delle onde hanno un aspetto vetroso e non si rompono.
 Terra: Il vento si sente sulla pelle. Le foglie frusciano. Le banderuole iniziano a muoversi</translation>
     </message>
 </context>
@@ -301,8 +301,8 @@ Terreno: i rami di moderata dimensione si muovono. Gli alberi fini cominciano a 
         <source>Sea: Long waves begin to form. White foam crests are very frequent. Some airborne spray is present
 Land: Large branches in motion. Whistling heard in overhead wires. Umbrella use becomes difficult. Empty plastic bins tip over</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: cominciano a formarsi onde lunghe. Molto frequenti sono le creste di schiuma bianca. Sono presenti spruzzi nell'aria
-Terreno: Grandi rami in movimento. Si sente un fischio nei cavi aerei. L'uso dell'ombrello diventa difficile. I contenitori di plastica vuoti si ribaltano</translation>
+        <translation>Mare: cominciano a formarsi onde lunghe. Molto frequenti sono le creste di schiuma bianca. Sono presenti spruzzi nell&apos;aria
+Terreno: Grandi rami in movimento. Si sente un fischio nei cavi aerei. L&apos;uso dell&apos;ombrello diventa difficile. I contenitori di plastica vuoti si ribaltano</translation>
     </message>
 </context>
 <context>
@@ -312,7 +312,7 @@ Terreno: Grandi rami in movimento. Si sente un fischio nei cavi aerei. L'uso del
         <source>Sea: Sea heaps up. Some foam from breaking waves is blown into streaks along wind direction. Moderate amounts of airborne spray
 Land: Whole trees in motion. Effort neededto walk against the wind</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: Il mare si accumula. Parte della schiuma delle onde che si infrangono viene soffiata in strisce lungo la direzione del vento. Quantità moderate di schiuma nell'aria.
+        <translation>Mare: Il mare si accumula. Parte della schiuma delle onde che si infrangono viene soffiata in strisce lungo la direzione del vento. Quantità moderate di schiuma nell&apos;aria.
 Terra: interi alberi in movimento. Sforzo necessario per camminare controvento</translation>
     </message>
 </context>
@@ -323,7 +323,7 @@ Terra: interi alberi in movimento. Sforzo necessario per camminare controvento</
         <source>Sea: Moderately high waves with breaking crests forming spindrift. Well-marked streaks of foam are blown along wind direction. Considerable airborne spray
 Land: Some twigs broken from trees. Cars veer on road. Progress on foot is seriously impeded</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: Onde moderatamente alte con creste che si infrangono formando schiuma nell'aria. Strisce di schiuma ben marcate vengono soffiate lungo la direzione del vento. Notevoli spruzzi aerei
+        <translation>Mare: Onde moderatamente alte con creste che si infrangono formando schiuma nell&apos;aria. Strisce di schiuma ben marcate vengono soffiate lungo la direzione del vento. Notevoli spruzzi aerei
 Terreno: alcuni ramoscelli spezzati dagli alberi. Le auto virano sulla strada. Il progresso a piedi è seriamente ostacolato</translation>
     </message>
 </context>
@@ -334,7 +334,7 @@ Terreno: alcuni ramoscelli spezzati dagli alberi. Le auto virano sulla strada. I
         <source>Sea: High waves whose crests sometimes roll over. Dense foam is blown along wind direction. Large amounts of airborne spray may begin to reduce visibility
 Land: Some branches break off trees, and some small trees blow over. Construction/temporary signs and barricades blow over</source>
         <comment>Tooltip in Weather overview dialogue</comment>
-        <translation>Mare: Onde alte le cui creste talvolta si ribaltano. La schiuma densa viene soffiata lungo la direzione del vento. Grandi quantità di spruzzi nell'aria possono iniziare a ridurre la visibilità
+        <translation>Mare: Onde alte le cui creste talvolta si ribaltano. La schiuma densa viene soffiata lungo la direzione del vento. Grandi quantità di spruzzi nell&apos;aria possono iniziare a ridurre la visibilità
 Terra: alcuni rami si staccano dagli alberi e alcuni piccoli alberi vengono spazzati via. I segnali di costruzione/temporanei e le barricate vengono distrutti</translation>
     </message>
 </context>
@@ -506,7 +506,7 @@ The comfort level is severely uncomfortable and possibly deadly for asthma suffe
         <location filename="../humidex.py" line="32"/>
         <source>The drier air can cause skin to crack and become irritated more easily</source>
         <comment>ToolTip in weather info dialogue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;aria più secca può causare crepe e irritazioni nella pelle</translation>
     </message>
 </context>
 <context>
@@ -605,7 +605,7 @@ Below 990 hPa is the pressure for VERY BAD and POWERFUL hurricanes, tornadoes, a
         <location filename="../meteo_qt.py" line="473"/>
         <source>Air quality</source>
         <comment>Label in weather info dialogue</comment>
-        <translation>Qualità dell'aria</translation>
+        <translation>Qualità dell&apos;aria</translation>
     </message>
 </context>
 <context>
@@ -880,7 +880,7 @@ Below 990 hPa is the pressure for VERY BAD and POWERFUL hurricanes, tornadoes, a
     <message>
         <location filename="../settings.py" line="213"/>
         <source>Launch at startup</source>
-        <translation>Apri all'avvio</translation>
+        <translation>Apri all&apos;avvio</translation>
     </message>
     <message>
         <location filename="../settings.py" line="221"/>
@@ -1212,7 +1212,7 @@ Below 990 hPa is the pressure for VERY BAD and POWERFUL hurricanes, tornadoes, a
     <message>
         <location filename="../meteo_qt.py" line="2516"/>
         <source>The application has to be restarted to apply the language setting</source>
-        <translation>L'applicazione deve essere riavviata per applicare l'impostazione della lingua</translation>
+        <translation>L&apos;applicazione deve essere riavviata per applicare l&apos;impostazione della lingua</translation>
     </message>
 </context>
 <context>
@@ -1418,7 +1418,7 @@ github.</translation>
         <location filename="../settings.py" line="58"/>
         <source>The application has to be restared to apply the language setting</source>
         <comment>Settings dialogue</comment>
-        <translation>L'applicazione deve essere riavviata affinché la modifica delle impostazioni lingua possa avvenire</translation>
+        <translation>L&apos;applicazione deve essere riavviata affinché la modifica delle impostazioni lingua possa avvenire</translation>
     </message>
 </context>
 <context>
